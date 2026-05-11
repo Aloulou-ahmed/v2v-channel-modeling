@@ -1,0 +1,9 @@
+Carrier frequency: 5.2 GHz
+
+Urban sampling frequency: 1 kHz
+
+Highway sampling frequency: 2 kHz
+
+Measurement time: 30 minutes
+
+Transmit power: 20 dBm
